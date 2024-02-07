@@ -1,5 +1,6 @@
 # RiyaGairola_Developer
-This is a Coding Assignment solved for Namshi
+This is a Coding Assignment solved for Namshi in UAE
+https://www.namshi.com/uae-en/
 
 video of the running page in both mobile as well as desktop view :
 https://www.awesomescreenshot.com/video/10707070?key=eb5c1c7326cc286c9e9d2e932aa3404e
